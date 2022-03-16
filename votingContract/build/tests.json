@@ -1,0 +1,16 @@
+{
+  "contracts": {
+    "MockV3Aggregator": "9e734e161b5cafcca52a917f10266f5a8bc05b28",
+    "votingContract": "8d87fb56367a167fede03e09679cecffc1636174"
+  },
+  "tests": {
+    "tests/test_votingContract.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "ssssF",
+      "sha1": "2728f0907528d71148817722e4fabeecbb413d3c",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
